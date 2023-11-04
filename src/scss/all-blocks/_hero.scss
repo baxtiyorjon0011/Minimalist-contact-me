@@ -1,0 +1,35 @@
+.hero {
+    .hero-box {}
+
+    hr {
+        opacity: 0.15;
+        background: #33323D;
+        margin-bottom: 48px;
+    }
+
+    .hero-box-main {
+        display: flex;
+        justify-content: space-between;
+
+        h2 {
+            color: #33323D;
+            font-size: 40px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 42px;
+            letter-spacing: -0.357px;
+        }
+    }
+}
+
+.hero-2 {
+    p {
+        width: 635px;
+        color: #33323D;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 30px;
+        margin-bottom: 24px;
+    }
+}
